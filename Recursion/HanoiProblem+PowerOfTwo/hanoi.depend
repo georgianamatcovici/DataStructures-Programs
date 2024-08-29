@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699553611 source:c:\proiecte codeblocks\hanoi\main.cpp
+	<iostream>
+	<fstream>
+
